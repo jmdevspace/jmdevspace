@@ -11,11 +11,6 @@ Focused on JavaScript, React, Next.js, and modern front-end engineering.
 - Firebase, Supabase  
 - Git, GitHub
 
-### 🌱 What I'm Learning
-- Full-stack Next.js  
-- API development  
-- UI/UX best practices
-
 ### 📫 Contact Me
 📧 Email: **jmempin.dev@gmail.com**  
 🐙 GitHub: **[@jmdevspace](https://github.com/jmdevspace)** 
