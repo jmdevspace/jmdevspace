@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Jonathan  
+**Frontend Developer | React & Next.js**
 
-<!--
-**jmdevspace/jmdevspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love building clean, responsive, and user-friendly interfaces.  
+Focused on JavaScript, React, Next.js, and modern front-end engineering.
 
-Here are some ideas to get you started:
+### 🚀 Tech I Use
+- React, Next.js  
+- JavaScript (ES6+), TypeScript  
+- Tailwind CSS, CSS Modules  
+- Firebase, Supabase  
+- Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I'm Learning
+- Full-stack Next.js  
+- API development  
+- UI/UX best practices
+
+### 📫 Contact Me
+📧 Email: **jmempin.dev@gmail.com**  
+🐙 GitHub: **[@jmdevspace](https://github.com/jmdevspace)** 
